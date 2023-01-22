@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe371178-553e-4a9c-9cb8-ab6fdc7deb2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Companies/createCompany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Companies/getCompanys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Companies/homeCompany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Companies/signinCompany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Intership/createIntership.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Intership/createIntershipAndOnline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Intership/createIntershipAndSave.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/homeStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/upadateStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Checkbox/Checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Companies/CompanyWaited.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Companies/companyMathed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Intership/aaaaa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Intership/seachv2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Intership/submitSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchAndInternship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Student/homesiginin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Student/mathed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Student/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/atlas_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/intership.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/searcinternship.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/good_start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Companies/signin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/DifApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Intership/GetRequestedInterships.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Intership/GetSavedInterships.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Pet.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Pet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/createStudent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/getStudent.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/getStudent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/getStudents.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/getStudents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/signin.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/components/Student/signinStudent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/functions/checkAdmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/functions/checkAdmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/functions/flagStatus201.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/functions/flagStatus201.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-endAtlaslast/Front-endAtlas/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Companies/homeCompany.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Companies/homeCompany.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Companies/signinCompany.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Companies/signinCompany.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Intership/IntershipNolink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Intership/IntershipNolink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Intership/intership.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Intership/intership.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Student/homeStudent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Student/homeStudent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Student/signinStudent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Student/signinStudent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KSodbNGj6UgszFAIt87bsc8bpK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alexkosmasnew/Desktop/Front-endAtlas/src/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/alexkosmasnew/Downloads/Front-endAtlas/node_modules/prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/webstorm/294/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/Intership" />
+      <recent name="$PROJECT_DIR$/src/components/Student" />
+      <recent name="$PROJECT_DIR$/src/components/Companies" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/style" />
+      <recent name="$PROJECT_DIR$/src/components/Student" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe371178-553e-4a9c-9cb8-ab6fdc7deb2f" name="Changes" comment="" />
+      <created>1673977432923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673977432923</updated>
+      <workItem from="1673977434001" duration="2781000" />
+      <workItem from="1673987160105" duration="6257000" />
+      <workItem from="1674060820787" duration="14660000" />
+      <workItem from="1674106497473" duration="14199000" />
+      <workItem from="1674150240019" duration="12281000" />
+      <workItem from="1674219060005" duration="8435000" />
+      <workItem from="1674232271314" duration="24729000" />
+      <workItem from="1674304494333" duration="24299000" />
+      <workItem from="1674329380563" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Companies/createCompany.js</url>
+          <line>83</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/react-router/dist/lib/components.d.ts</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
